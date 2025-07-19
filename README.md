@@ -18,26 +18,13 @@ OasisKart is a premium e-commerce platform designed for modern, high-performance
 - ⚡ JavaScript (Vanilla) – Interactive and dynamic functionality
 
 
-📂 Project Structure
-css
-Copy
-Edit
-oasiskart/
-├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── main.js
-├── assets/
-│   └── images, icons, etc.
-
-
 💻 Getting Started
-1️⃣ Clone this repository:
-git clone https://github.com/your-username/oasiskart.git
-cd oasiskart
-2️⃣ Open index.html in your browser.
-3️⃣ Start customizing your store!
+
+- Clone this repository:
+        git clone https://github.com/your-username/oasiskart.git
+        cd oasiskart
+- Open index.html in your browser.
+- Start customising your store!
 
 
 🤝 Contributing
